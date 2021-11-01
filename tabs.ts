@@ -39,7 +39,7 @@ export class TabsPage {
 
 	// конструктор
 	constructor(public notifyService: NotifyService) {
-
+		/// NotifyService
 		
 	}
 	
